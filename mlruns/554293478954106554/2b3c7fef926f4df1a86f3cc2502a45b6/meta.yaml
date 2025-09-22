@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/554293478954106554/2b3c7fef926f4df1a86f3cc2502a45b6/artifacts
+end_time: 1758534967480
+entry_point_name: ''
+experiment_id: '554293478954106554'
+lifecycle_stage: active
+run_id: 2b3c7fef926f4df1a86f3cc2502a45b6
+run_name: bouncy-roo-0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758534966568
+status: 4
+tags: []
+user_id: Harsh Teckchandani

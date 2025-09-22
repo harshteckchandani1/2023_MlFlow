@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/38a9c8280c364c1cbc678623d2bf3050/artifacts
+end_time: 1758533773771
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 38a9c8280c364c1cbc678623d2bf3050
+run_name: nosy-koi-972
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758533773532
+status: 3
+tags: []
+user_id: Harsh Teckchandani

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/554293478954106554/f8b67d16fac546cfb767b8ae904f7208/artifacts
+end_time: 1758534060913
+entry_point_name: ''
+experiment_id: '554293478954106554'
+lifecycle_stage: active
+run_id: f8b67d16fac546cfb767b8ae904f7208
+run_name: dapper-chimp-51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758534060721
+status: 3
+tags: []
+user_id: Harsh Teckchandani

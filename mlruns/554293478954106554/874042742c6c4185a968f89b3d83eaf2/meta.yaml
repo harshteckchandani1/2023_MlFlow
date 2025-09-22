@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/554293478954106554/874042742c6c4185a968f89b3d83eaf2/artifacts
+end_time: 1758535316033
+entry_point_name: ''
+experiment_id: '554293478954106554'
+lifecycle_stage: active
+run_id: 874042742c6c4185a968f89b3d83eaf2
+run_name: blushing-snail-903
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758535315414
+status: 3
+tags: []
+user_id: Harsh Teckchandani

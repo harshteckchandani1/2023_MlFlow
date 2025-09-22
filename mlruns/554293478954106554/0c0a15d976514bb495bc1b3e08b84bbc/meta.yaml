@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/554293478954106554/0c0a15d976514bb495bc1b3e08b84bbc/artifacts
+end_time: 1758535167126
+entry_point_name: ''
+experiment_id: '554293478954106554'
+lifecycle_stage: active
+run_id: 0c0a15d976514bb495bc1b3e08b84bbc
+run_name: popular-duck-208
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758535166632
+status: 3
+tags: []
+user_id: Harsh Teckchandani

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/554293478954106554/e2a547a56f3e489cb8493c59d9f62c83/artifacts
+end_time: 1758535249752
+entry_point_name: ''
+experiment_id: '554293478954106554'
+lifecycle_stage: active
+run_id: e2a547a56f3e489cb8493c59d9f62c83
+run_name: valuable-ant-527
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758535249303
+status: 3
+tags: []
+user_id: Harsh Teckchandani

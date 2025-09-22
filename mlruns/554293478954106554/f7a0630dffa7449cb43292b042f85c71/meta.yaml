@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/554293478954106554/f7a0630dffa7449cb43292b042f85c71/artifacts
+end_time: 1758534163257
+entry_point_name: ''
+experiment_id: '554293478954106554'
+lifecycle_stage: active
+run_id: f7a0630dffa7449cb43292b042f85c71
+run_name: likeable-conch-798
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758534162937
+status: 3
+tags: []
+user_id: Harsh Teckchandani
